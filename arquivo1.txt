@@ -23,3 +23,7 @@ Questão 07:
 git clone https://github.com/HTML5-and-CSS3/Projetos_HTML5_CSS3_Landing-Page-Chair10.git
 
 Questão 08:
+Readme atualizado
+
+Questão 09:
+Você aperta nos 3 pontos no canto superior e coloca a opção de copiar permanente
