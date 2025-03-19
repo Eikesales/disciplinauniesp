@@ -14,3 +14,12 @@ Questão 04:
 help
 
 Questão 05:
+Alterei os arquivos
+
+Questão 06:
+Verifiquei os arquivos alterados
+
+Questão 07:
+git clone https://github.com/HTML5-and-CSS3/Projetos_HTML5_CSS3_Landing-Page-Chair10.git
+
+Questão 08:
