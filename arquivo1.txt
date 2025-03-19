@@ -1,4 +1,16 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Eike Magalhães Barbosa Sales
-Disciplina: Tópicos Essenciais pra Programação
+
+Questão 01:
+Arquivos postados no Github
+
+Questão 02:
+Aperta no botão "Code" no Github do seu repositório, apertará para copiar o link, vai abrir no Git Bas here dentro da pasta criada chamada "Repositorio" e colocará o seguinte comando: git clone e link(colocára o link copiado)
+
+Questão 03:
+cd Documents/Repositorio/disciplinauniesp
+
+Questão 04:
+help
+
+Questão 05:
